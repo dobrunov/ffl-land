@@ -3,11 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "012303c5e9bf8c66aa567610fd6f0775",
-"assets/AssetManifest.bin.json": "b18f49d29c55feb20627d6d0f6ac9638",
-"assets/AssetManifest.json": "16c3f13bf67b58c0692829a1854334ea",
+const RESOURCES = {"assets/AssetManifest.bin": "b41457fc624fa56dc1a9b14e65eeee9a",
+"assets/AssetManifest.bin.json": "aa606b3c7563b3135e788f31f752eb80",
+"assets/AssetManifest.json": "82dbb07bb169b9cd13f4d4708233d048",
 "assets/assets/images/bread.jpg": "b83514dd0c754c14e9d89ee9ae039fb2",
+"assets/assets/images/bread.png": "7752463c9af5cbe4659792fe16f4f782",
 "assets/assets/images/drink.jpg": "4b319b0604dcb8ec1fbecd7147265252",
+"assets/assets/images/drink.png": "e98f05de87f997b8e3e11f9150528002",
 "assets/assets/images/facebook-2870.svg": "331ccff01370be38999c909873809486",
 "assets/assets/images/FFL-Kharkiv-logo-2023_circle.png": "f63b3419b1841ce94969905ddb759b2a",
 "assets/assets/images/ffl_site1.jpg": "1b9044827ce24c2d6b3a07366e2efea9",
@@ -37,9 +39,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "012303c5e9bf8c66aa567610fd6f0775
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a244b3e4959cae03bf8c0075df1778c7",
-"/": "a244b3e4959cae03bf8c0075df1778c7",
-"main.dart.js": "cb4375fe7600f1f04c6094243068c184",
+"index.html": "3cd43f758d8e6626166b9fb51341cc4f",
+"/": "3cd43f758d8e6626166b9fb51341cc4f",
+"main.dart.js": "77556b072311a1afab7313a004951250",
 "manifest.json": "23d15cb955c543b00fd1e10b40de64f0",
 "version.json": "32572fee7c29d0149662f8be22e34b85"};
 // The application shell files that are downloaded before a service worker can

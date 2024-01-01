@@ -65198,7 +65198,7 @@ U(a){var s=null
 return new A.we(A.atC(new A.Ho(A.dW(A.a([new A.DG(s),new A.Hu(s),new A.Dp(s),new A.DI(s),new A.Dq(s)],t.E),B.A),s),!0),s)}}
 A.Dp.prototype={
 U(a){var s=null,r=t.w,q=t.E
-return A.fx(s,A.df(A.a([new A.dO(B.D2,A.dW(A.a([B.IW,A.df(A.a([A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,B.wY,A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Ql],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,B.wZ,A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Qo],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,B.x_,A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Qv],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08)],q),B.A,B.q8,B.L),A.bH(s,20,s),A.df(A.a([A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,new A.fv("images/sweets.jpg",s,s),A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.QA],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,new A.fv("images/sabdji.jpg",s,s),A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Qz],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,B.wX,A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Qm],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08)],q),B.A,B.q8,B.L)],q),B.A),s)],q),B.A,B.ep,B.L),B.fL,s,s,s,s,s)}}
+return A.fx(s,A.df(A.a([new A.dO(B.D2,A.dW(A.a([B.IW,A.df(A.a([A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,B.wY,A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Ql],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,B.wX,A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Qo],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,B.x_,A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Qv],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08)],q),B.A,B.q8,B.L),A.bH(s,20,s),A.df(A.a([A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,new A.fv("images/sweets.jpg",s,s),A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.QA],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,new A.fv("images/sabdji.jpg",s,s),A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Qz],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08),A.bH(A.dW(A.a([A.fx(s,A.p4(B.bq,100,B.wZ,A.bz(a,s,r).w.a.a*0.16),B.bE,s,s,s,s,s),B.ai,B.Qm],q),B.A),s,s),A.bH(s,s,A.bz(a,s,r).w.a.a*0.08)],q),B.A,B.q8,B.L)],q),B.A),s)],q),B.A,B.ep,B.L),B.fL,s,s,s,s,s)}}
 A.Dq.prototype={
 U(a){var s=this,r=null,q=t.E
 return A.fx(r,A.bH(A.dW(A.a([B.IV,new A.dO(B.D3,A.df(A.a([A.df(A.a([A.ou(A.uj(!1,!0,A.a2X("images/facebook-2870.svg",60,60),r,!0,r,r,r,r,r,r,r,r,r,new A.Vn(s),r,r,r,r),r,r),B.ig,A.ou(A.uj(!1,!0,A.a2X("images/instagram-logo-8869.svg",60,60),r,!0,r,r,r,r,r,r,r,r,r,new A.Vo(s),r,r,r,r),r,r),B.ig,A.ou(A.uj(!1,!0,A.a2X("images/telegram-logo-5941.svg",60,60),r,!0,r,r,r,r,r,r,r,r,r,new A.Vp(s),r,r,r,r),r,r),B.ig,A.ou(A.uj(!1,!0,A.a2X("images/youtube-logo-2431.svg",60,60),r,!0,r,r,r,r,r,r,r,r,r,new A.Vq(s),r,r,r,r),r,r)],q),B.A,B.d4,B.L)],q),B.A,B.ep,B.L),r),B.LA],q),B.A),r,r),B.k9,r,r,r,r,r)},
@@ -65224,7 +65224,7 @@ $0(){this.a.kl(A.h_("https://www.youtube.com/@fflkharkiv",0,null))},
 $S:0}
 A.DG.prototype={
 U(a){var s=null,r=t.Il,q=t.VY,p=t.E
-return A.fx(s,A.df(A.a([A.df(A.a([new A.dO(B.fU,new A.p3(A.atw(s,s,new A.fv("images/FFL-Kharkiv-logo-2023_circle.png",s,s)),100,100,s,s),s),A.bH(s,s,A.bz(a,s,t.w).w.a.a*0.45),new A.dO(B.fU,new A.CP(new A.W8(),s,s,s,A.RP(s,s,new A.bP(B.fL,r),s,s,s,new A.bP(B.ku,r),s,s,new A.bP(B.Lv,q),new A.bP(B.Lu,q),s,s,s,s,s,s,s,s,s,s,s),B.R,s,!1,s,B.Qw,s),s)],p),B.A,B.d4,B.L)],p),B.A,B.ep,B.L),B.k9,s,s,s,s,s)}}
+return A.fx(s,A.df(A.a([A.df(A.a([new A.dO(B.fU,new A.p3(A.atw(s,s,new A.fv("assets/images/FFL-Kharkiv-logo-2023_circle.png",s,s)),100,100,s,s),s),A.bH(s,s,A.bz(a,s,t.w).w.a.a*0.45),new A.dO(B.fU,new A.CP(new A.W8(),s,s,s,A.RP(s,s,new A.bP(B.fL,r),s,s,s,new A.bP(B.ku,r),s,s,new A.bP(B.Lv,q),new A.bP(B.Lu,q),s,s,s,s,s,s,s,s,s,s,s),B.R,s,!1,s,B.Qw,s),s)],p),B.A,B.d4,B.L)],p),B.A,B.ep,B.L),B.k9,s,s,s,s,s)}}
 A.W8.prototype={
 $0(){},
 $S:0}
@@ -70951,9 +70951,9 @@ B.dH=new A.i6(4,"paused")
 B.fl=new A.rH(0,"polite")
 B.fm=new A.rH(1,"assertive")
 B.wW=new A.fv("images/ffl_site1.jpg",null,null)
-B.wX=new A.fv("images/bread.png",null,null)
-B.wY=new A.fv("images/soup.jpg",null,null)
-B.wZ=new A.fv("images/drink.png",null,null)
+B.wX=new A.fv("assets/images/drink.png",null,null)
+B.wY=new A.fv("assets/images/soup.jpg",null,null)
+B.wZ=new A.fv("images/bread.png",null,null)
 B.x_=new A.fv("images/halava.jpg",null,null)
 B.F=new A.om(0,"up")
 B.cw=new A.om(1,"right")
